@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "1. Install the project dependencies:",
+  "homepage": "https://github.com/govind8794/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/govind8794/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/govind8794/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "Govind",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
